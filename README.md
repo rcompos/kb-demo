@@ -1,0 +1,2 @@
+# kb-demo
+Kubebuilder demo
